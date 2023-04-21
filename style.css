@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&family=Reem+Kufi&display=swap');
+#zakat1 {
+  background-color: gold;
+  margin: 49px;
+  padding-right: 30px;
+  text-align: right;
+  margin: 4px;
+  font-family: 'Aref Ruqaa', serif;
+}
+html, body {
+  background-color: gainsboro;
+}
+#myText {
+  margin: 3px;
+  padding-right: 60px;
+  height: 30px;
+  border-radius: 4px;
+}
+#myButton {
+  border-radius: 7px;
+  height: 32px;
+  background-color: goldenrod;
+  text-align: center;
+}
+#demo {
+  background-color: goldenrod;
+}
+#myparag1 {
+  background-color: red;
+  width: 189px;
+  margin-left: 58px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+#myparag2 {
+  background-color: green;
+  width: 189px;
+}
+#myButton2 {
+  background-color: goldenrod;
+  border-radius: 5px;
+  height: 26px;
+}
+#demo {
+  width: 140px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#salatuk {
+  background-color: khaki;
+  text-align: center;
+}
+#salath1o {
+  font-family: 'Reem Kufi', sans-serif;
+  text-align: right;
+  padding-left: 17px;
+  padding-right: 16px;
+  width: 330px;
+  height: 100px;
+  border-radius: 4px;
+  background-color: gold;
+  
+}
+#image1 {
+  height: 75px;
+  position: relative;
+  top: -287px;
+  right: -17px;
+}
+#prayerdisplay {
+  position: relative;
+  top: -400px;
+  top: -350px;
+  right: -90px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: darkkhaki;
+  border-radius: 8px;
+  width: 90px;
+  text-align: center;
+}
+#header24 {
+  text-align: center;
+  font-family: 'Reem Kufi', sans-serif;
+}
+#greeting {
+  text-align: center;
+  font-family: "Aref Ruqaa", serif;
+  background-color: salmon;
+  background-size: 99px;
+  padding-top: 13px;
+  padding-top: -9px;
+}
+#claimbar {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  background-color: darkgray;
+}
+#wholepage {
+  background: gainsboro;
+}
+#textback {
+  font-size: 15px;
+  text-align: center;
+  background-color: powderblue;
+}
+#buttonxyz {
+  padding-left: 5px;
+  text-align: center;
+  padding-right: 3px;
+  background-color: skyblue;
+}
+#thebestfps {
+  position: relative;
+  display: inline-block;
+  width: 430px;
+  padding-right: 55px;
+  padding-left: 54px;
+}
+span {
+  content: "\00A9";
+}
